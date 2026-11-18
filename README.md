@@ -1,4 +1,4 @@
-BHHF BANNER PRO • PRO VERSION • BLACK HAT HACKER FORCE ✆
+PROF BANNER PRO • PRO VERSION • BLACK HAT HACKER FORCE ✆
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECT-BHHF%20BANNER-00FFFF?style=for-the-badge">
@@ -54,8 +54,8 @@ python Iloveyou.py
 
 After launching the script, select an option from the menu.
 
-- [1] Install BANNER PRO
-- [2] Uninstall BANNER PRO
+- [1] Install NEXUS PRO
+- [2] Uninstall NEXUS PRO
 - [0] Exit
 ---
 Choose your preferred theme and enter your operator name to customize your terminal.
